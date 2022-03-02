@@ -1,1 +1,3 @@
-Gatsby Star By TerPzg
+Gatsby Star By TerPz
+
+Create : Gatsby + React
